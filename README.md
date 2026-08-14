@@ -25,7 +25,7 @@ Currently, I work at **Microsoft** on tenant and platform security engineering.
 My approach is simple: make systems secure by default, observable in production,
 and easy for teams to operate.
 
-[Website](https://www.akashn.in) | [LinkedIn](https://tinyurl.com/akashnautiyal) | [Email](mailto:akash.nautiyal@outlook.com)
+[Website](https://www.akashn.in) | [LinkedIn](https://www.linkedin.com/in/akash-nautiyal-062a551b0/) | [Email](mailto:akash.nautiyal@outlook.com)
 
 ## What I Work On
 
